@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/FLIF-hub/FLIF.svg?branch=master)](https://travis-ci.org/FLIF-hub/FLIF)
 [![Join the chat at https://gitter.im/jonsneyers/FLIF](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jonsneyers/FLIF?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Donate via Gratipay](https://img.shields.io/gratipay/flif.svg)](https://gratipay.com/flif/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FFLIF.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FFLIF?ref=badge_shield)
 
 FLIF is a lossless image format based on MANIAC compression. MANIAC (Meta-Adaptive Near-zero Integer Arithmetic Coding)
 is a variant of CABAC (context-adaptive binary arithmetic coding), where the contexts are nodes of decision trees
@@ -29,6 +30,9 @@ The example application `viewflif` illustrates how to use the decode library.
 The example code in `viewflif.c` is in the public domain (Creative Commons CC0 1.0 Universal).
 
 * * *
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FFLIF.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FFLIF?ref=badge_large)
 
 ## Build Instructions
 
